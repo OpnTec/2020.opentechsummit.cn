@@ -1,3 +1,3 @@
-# 2019.opentechsummit.cn
-OpenTechSummit China 2019
-https://2019.opentechsummit.cn
+# 2020.opentechsummit.cn
+OpenTechSummit China 2020
+https://2020.opentechsummit.cn
